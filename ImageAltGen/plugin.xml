@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin> 
+<name>ImageAltGen</name>
+<type>edit</type>
+<author>Woongyoung Park</author>
+<description>Generates image alt texts for EPUB files using LLMs</description>
+<engine>python3.4</engine>
+<version>0.0.9</version>
+<autostart>true</autostart>
+<autoclose>true</autoclose>
+<oslist>osx,unx,win</oslist>
+</plugin>
